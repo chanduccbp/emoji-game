@@ -1,0 +1,25 @@
+/* Write your code here. */
+
+.bg-container {
+  height: 100vh;
+}
+
+.card-cont {
+  height: 90%;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emojis {
+  height: 60%;
+  width: 80%;
+  padding-left: 0px;
+  margin-bottom: 130px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

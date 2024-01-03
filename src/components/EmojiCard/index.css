@@ -1,0 +1,18 @@
+/* Write your code here. */
+
+.e-card {
+  width: 20%;
+  padding: 20px;
+  margin: 5px;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  border: solid 2px #ffffff30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.e-butt {
+  background-color: transparent;
+  border-style: none;
+}
